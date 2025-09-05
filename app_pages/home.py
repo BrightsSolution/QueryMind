@@ -9,8 +9,7 @@ def show_home():
     # 🔗 **GitHub and LinkedIn Links**
     st.markdown("""
         <div class="content">
-            <a href="https://github.com/MuhammadUmerKhan/AI-Powered-Search-Engine" target="_blank" class="highlight">🔗 View Source Code on GitHub</a><br>
-            <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank" class="highlight">🔗 Connect with Muhammad Umer on LinkedIn</a>
+            <a href="https://github.com/BrightsSolution?tab=repositories" target="_blank" class="highlight">🔗 View Source Code on GitHub</a><br>
         </div>
     """, unsafe_allow_html=True)
 
