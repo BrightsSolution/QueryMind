@@ -1,0 +1,21 @@
+[project]
+name = "querymind"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu", 
+    "langchain",
+    "newspaper3k", 
+    "google-api-python-client",
+    "lxml-html-clean", 
+    "langchain-groq",
+    "python-dotenv",
+    "langchain-community",
+    "sentence-transformers",
+    "pypdf",
+    "streamlit",
+    "faiss-cpu",
+    "validators"
+]
