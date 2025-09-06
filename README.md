@@ -110,7 +110,7 @@ AI_Search_Engine/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/BrightsSolution?tab=repositories
+git clone https://github.com/MuhammadUmerKhan/AI-Powered-Semantic-Search-Engine-with-LLMs-Vector-Databases.git
 cd AI-Powered-Semantic-Search-Engine-with-LLMs-Vector-Databases
 ```
 
@@ -203,11 +203,11 @@ streamlit run app.py
 ---
 
 ## 🔴 Live Demo:
-- [Web App](https://ai-powered-search-engine-with-llms.streamlit.app/?embed_options=show_toolbar,dark_theme,show_colored_line,show_footer)
+- [Web App](https://ai-querymind.streamlit.app/?embed_options=show_toolbar,dark_theme,show_colored_line,show_footer)
 ---
 
 ## 👨‍💻 **Author & Contact**
-💡 **Developed by:** [Muhammad Umer Khan](https://www.linkedin.com/in/muhammad-umer-khan-61729b260/)  
+💡 **Website:** [Bright Solutions](https://brightssolution.com/)  
 📧 **Contact:** Reach out via LinkedIn or GitHub.  
 
 🌟 **If you found this project helpful, give it a ⭐ on GitHub!** 🚀
