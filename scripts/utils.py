@@ -1,6 +1,6 @@
 from langchain_groq import ChatGroq
 import streamlit as st
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from scripts.config import GROQ_API_KEY, EMBEDDING_MODEL
 import logging
 

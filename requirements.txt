@@ -6,6 +6,7 @@ lxml-html-clean
 langchain-groq
 python-dotenv
 langchain-community
+langchain-huggingface
 sentence-transformers
 pypdf
 streamlit
