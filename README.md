@@ -110,8 +110,8 @@ AI_Search_Engine/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/MuhammadUmerKhan/AI-Powered-Semantic-Search-Engine-with-LLMs-Vector-Databases.git
-cd AI-Powered-Semantic-Search-Engine-with-LLMs-Vector-Databases
+git clone https://github.com/BrightsSolution/QueryMind
+cd QueryMind
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -159,26 +159,6 @@ streamlit run app.py
 - *"What are the latest advancements in AI?"*
 - *"Explain quantum computing in simple terms."*
 - *"What are the benefits of intermittent fasting?"*
-
----
-
-## 🐳 **Dockerization & Deployment**
-- **Build**:
-  ```bash
-  docker build -t muhammadumerkhan/semantic-engine .
-  ```
-- **Run**:
-  ```bash
-  docker run -p 8501:8501 muhammadumerkhan/semantic-engine
-  ```
-- **Push**:
-  ```bash
-  docker push muhammadumerkhan/semantic-engine
-  ```
-- **Pull**:
-  ```bash
-  docker pull muhammadumerkhan/semantic-engine
-  ```
 
 ---
 
